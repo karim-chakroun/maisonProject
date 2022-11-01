@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEGbDyfJp3ylXv/FmwEv3L+Tgt+nDIe8X8o15Yw/i3gyKlYlhA9q//qpkce6O/SBfUBTAuXXFhjgRgN02mBJyg==",
+  "success": true,
+  "projectFilePath": "D:\\projet meriem .net\\Examen-NomPrenom-withweb\\Examen-NomPrenom\\Examen.Domain\\Examen.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

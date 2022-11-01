@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Examen.Domain.Entities.Maison>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<fieldset>
+    <legend></legend>
+    <form asp-action="index">
+        <label for="filter">Recherchde par titre:</label>
+        <input type="text" name="filter" />
+        <input type="submit" class="btn-primary" value="Search" />
+    </form>
+</fieldset>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.maisonId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.quartiers)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.prix)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.typeFk)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.maisonId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quartiers)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.prix)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.typeFk)
+            </td>
+            <td>
+               
+                @Html.ActionLink("Details", "Details", new {  id=item.typeFk  }) 
+              
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

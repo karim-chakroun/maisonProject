@@ -1,0 +1,29 @@
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.deps.json
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Data.dll
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.AssemblyInfo.cs
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.CopyComplete
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.dll
+C:\Users\asus\source\repos\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.pdb
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.deps.json
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.dll
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Service.Pattern.pdb
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Data.dll
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Domain.dll
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Data.pdb
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\bin\Debug\netcoreapp3.1\Examen.Domain.pdb
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.AssemblyReference.cache
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.AssemblyInfoInputs.cache
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.AssemblyInfo.cs
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.CoreCompileInputs.cache
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.csproj.CopyComplete
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.dll
+D:\projet meriem .net\Examen-NomPrenom-withweb\Examen-NomPrenom\Service.Pattern\obj\Debug\netcoreapp3.1\Service.Pattern.pdb
